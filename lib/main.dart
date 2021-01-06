@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'Food Demo',
       theme: ThemeData(
-        scaffoldBackgroundColor: Color(0xfffafafc),
+        scaffoldBackgroundColor: Color(0xFF7A7A7A),
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
